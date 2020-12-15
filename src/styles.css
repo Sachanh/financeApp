@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blue;
+}
+em {
+  color: green;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: red;
+}
+li {
+  border-radius: 2px;
+  padding: 1rem 0.5rem;
+  margin: auto;
+  color: lawngreen;
+  background-color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+b {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+button{
+  cursor: pointer;
+  background: #E5E7EB;
+  borderRadius: 0.5rem;
+  padding: 0.5rem  1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+  background-color:lightgreen;
+  font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+           
+}
+
+button:hover{
+  background-color:red;
+  border-Radius:0.5rem;
+
+}
